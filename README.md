@@ -17,7 +17,7 @@ After the installation of picom, add the installed compositor inside autostart d
 ### What about the rounded corners patch for Openbox WM?
 I am looking keen on that, but in the meantime, you need to use compositor to enable rounded corners. In the future, I will probably upload the updated theme, rather than betting on the compositor itself, since those patches would probably fix the issues with menu list graphical limitations.
 ## This was made possible by
-- NotEnoughDanger (For his recreation of Windows® style minimize, maximize, iconify buttons)
+- NotEnoughDanger (For his recreation of Windows® style minimize, maximize, iconify buttons, https://www.pling.com/p/1084968/)
 - Dovias
 <br>
 Made with ♥ in Lithuania 🇱🇹
