@@ -1,0 +1,76 @@
+# Kaunas - Openbox theme suited for LXQT desktop enviroment.
+# Works best with the LXQT Vilnius style/shell theme and Lithuania QT theme.
+# Based on Win10 Colors theme by NotEnoughDanger (credits for his recreation of Windows® style minimize, maximize, iconify buttons) from https://www.pling.com/p/1084968/.
+# Made with love by Dovias (https://github.com/Dovias).
+
+# BORDER
+border.width = 0;
+######## MENU
+menu.title.bg: flat
+menu.title.text.color: #ffffff
+menu.title.text.justify: left
+
+menu.border.color: #2e2e2e
+menu.border.width: 8
+
+menu.separator.padding.height: 7
+menu.separator.color: #444444
+
+menu.items.bg: flat solid
+menu.items.bg.color: #2e2e2e
+menu.items.text.color: #ffffff
+menu.items.justify: left
+menu.items.disabled.text.color: #808080
+
+menu.bullet.image.color: #ffffff
+
+menu.items.active.bg: flat
+menu.items.active.bg.color: #383838
+menu.items.active.text.color: #ffffff
+######## OSD
+osd.border.color: #1f1f1f
+osd.border.width: 8
+
+osd.bg: flat solid
+osd.bg.color: #1f1f1f
+
+osd.label.bg: flat solid
+osd.label.bg.color: #383838
+######## PADDING
+padding.width: 15
+padding.height: 6
+
+window.handle.width: 0
+window.client.padding.width: 0
+#### MISC
+window.label.text.justify: left
+window.*.client.color: #242424
+window.active.title.separator.color: #1f1f1f
+window.inactive.title.separator.color: #1f1f1f
+window.inactive.border.color: #1f1f1f
+#### TITLE
+window.*.title.bg: focus: flat
+window.*.title.bg.color: #1f1f1f
+
+window.*.label.bg: parentrelative
+
+window.active.title.bg.border.color: #2c5178
+window.active.label.text.color:  #ffffff
+
+window.inactive.label.text.color: #808080
+#### UNPRESSED
+window.*.button.unpressed.bg: parentrelative
+window.active.button.unpressed.image.color: #ffffff
+window.inactive.button.unpressed.image.color: #4c4c4c
+#### HOVER
+window.*.button.*.hover.bg: flat
+window.*.button.*.hover.bg.color: #383838
+#### PRESSED
+window.*.button.*.pressed.bg: flat
+window.*.button.*.pressed.bg.color: #464747
+#### TOGGLED
+window.*.button.max.toggled.bg: parentrelative
+window.*.button.shade.toggled.bg: parentrelative
+#### DISABLED
+window.*.button.disabled.bg: parentrelative
+window.*.button.disabled.image.color: #222222
