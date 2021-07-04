@@ -1,5 +1,5 @@
 # Kaunas
-Openbox WM theme that seeks for easy and modern window navigation in today's OS design. Initially was designed for LXQT desktop environment to make it more modern and comply with the modern OS design. Inspired by Windows® 11 Fluent design.
+Openbox Window Manager theme that seeks for easy and modern window navigation in today's OS design. Initially was designed for LXQT desktop environment to make it more modern and comply with the modern OS design. Inspired by Windows® 11 Fluent design.
 <br></br>
 <br>
 ![alt text](https://i.imgur.com/qlTsatZ.png)
