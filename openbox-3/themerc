@@ -4,7 +4,7 @@
 # Made with love by Dovias (https://github.com/Dovias).
 
 # BORDER
-border.width = 0;
+border.width: 0;
 ######## MENU
 menu.title.bg: flat
 menu.title.text.color: #ffffff
