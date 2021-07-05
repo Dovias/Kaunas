@@ -8,6 +8,8 @@ Openbox Window Manager theme that seeks for easy and modern window navigation in
 <br></br>
 ## Installation
 Download this repository via repository button above or clone it via this command inside CLI: ``git clone https://github.com/Dovias/Kaunas/``. After that, copy the folder inside ``~/.themes/`` directory. In order to enable this theme inside <b>LXQT desktop environment</b>, go to ``LXQT Settings/Openbox Settings/Theme/`` and select the <b>Kaunas</b> theme.
+
+Also, theme is available in pling store: https://www.pling.com/p/1549530/
 ### Enabling rounded corners
 Openbox does not support rounded corners by default, due to these technical limitations, some elements like menu list boxes are not rounded, but in order to compensate this, you can use forked picom compositor by ibhahwan (https://github.com/ibhagwan/picom) which provides support for your GPU to render your GUI and to round corners and blur windows. This small tutorial is only suited for LXQT since this theme was only designed for modernising LXQT and not other desktop environments, but the process should be somewhat similiar.
 - On <b>Arch Linux</b> based distributions, you can use https://aur.archlinux.org/packages/picom-ibhagwan-git/ <b>AUR</b> repository to install picom compositor. If you don't know how to install Arch User Repository packages, follow the instructions provided here: https://dev.to/nabbisen/installing-aur-packages-bdf. 
